@@ -6,10 +6,10 @@ by C.H.Choi
 
  Just add this Tag 'blink' like this below .xml and then start building your app
  
-    ```bash
-    <?xml version="1.0" encoding="utf-8"?>
+     ```bash
+     <?xml version="1.0" encoding="utf-8"?>
 
-    <blink
+     <blink
       xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:app="http://schemas.android.com/apk/res-auto"
       xmlns:tools="http://schemas.android.com/tools"
@@ -34,9 +34,8 @@ by C.H.Choi
             app:layout_constraintTop_toTopOf="@id/imageView"
             app:layout_constraintVertical_bias="0.125" />
 
-      </androidx.constraintlayout.widget.ConstraintLayout>
+       </androidx.constraintlayout.widget.ConstraintLayout>
 
-    </blink>
-
-    ```
+      </blink>
+      ```
  
