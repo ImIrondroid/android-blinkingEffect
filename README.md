@@ -6,7 +6,7 @@ by C.H.Choi
 
  Just add this Tag 'blink' like this below .xml and then start building your app
  
-     ```bash
+  ```bash
      <?xml version="1.0" encoding="utf-8"?>
 
      <blink
@@ -37,5 +37,5 @@ by C.H.Choi
        </androidx.constraintlayout.widget.ConstraintLayout>
 
       </blink>
-      ```
+   ```
  
